@@ -4,8 +4,8 @@ def count_lines(lines):
 
 def count_chars(lines):
     count = 0
-    for l in lines:
-        count += len(l)
+    for line in lines:
+        count += len(line)
     return count
 
 def test(lines):

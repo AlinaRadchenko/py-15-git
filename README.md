@@ -5,9 +5,9 @@
 
 Щоб запустити програму, виконайте команду:
 
-'''
-python main.py
-'''
+```bash
+python3 main.py
+```
 
 Папка '__pycache__/' не відображається в 'git status', тому що вона вказана у файлі '.gitignore',
 який наказує Git ігнорувати цю папку.
@@ -20,3 +20,11 @@ python main.py
 ## AI log: 
 використовувала для детальнішого пояснення виводу термінала 
 та розуміння того, що роблять команди Git
+
+## How to run
+
+Run the program from the terminal:
+
+```bash
+python3 main.py
+```
