@@ -16,3 +16,6 @@ python main.py
 5308b15 Add README.md
 96a52f4 Add my module and the script that uses it
 4a50f65 Add .gitignore
+
+## AI log: використовувала для детальнішого пояснення виводу термінала 
+## та розуміння того, що роблять команди Git
